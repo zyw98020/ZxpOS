@@ -19,7 +19,7 @@ int main(){
 		}
 		if (r == 2) {
 			int jsq = 0;
-			while (jsq >= 1) {
+			while (jsq != 1) {
 				int a ,b;
 				printf("输入第1个数>>>");
 				cin >> a;
