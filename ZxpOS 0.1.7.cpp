@@ -622,7 +622,6 @@ int main(){
 					if (wzq.win())
 						{
 							cout << "A is winner" << endl;
-							exit(0);
 						}
 				}
 				//b 开始了
@@ -642,7 +641,6 @@ int main(){
 					if (wzq.win())
 						{
 							cout << "B is winner" << endl;
-							exit(0);
 						}
 				}
 			}
