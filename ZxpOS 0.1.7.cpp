@@ -604,7 +604,7 @@ int main(){
 			int hang, lie;
 			qipan wzq;
 			wzq.qipan_array();
-			cout << "A 与B 玩五子棋" << endl;
+			cout << "A 与B 玩五子棋（8*8）" << endl;
 			cout << "________________________________" << endl;
 			for (int i = 0; i < 15; i++) {
 				cout << "A 输入行： ";
